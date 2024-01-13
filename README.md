@@ -11,7 +11,8 @@ A Text sharing platform where users can work together and it is integrated with 
 
 # Preview 2
 
- ![Screenshot 2024-01-13 151549](https://github.com/SpandanM110/Push-and-Text-Editor/assets/95229740/0e736dcc-0ed1-49b2-b67d-664af8b8dc49)
+![image](https://github.com/SpandanM110/Push-and-Text-Editor/assets/95229740/7be7d674-3ca3-46c1-a686-3cfdbc1fdd8a)
+
 
 
 Further Features can be integrated and will create a better version of it.
